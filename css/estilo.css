@@ -80,13 +80,13 @@ header {
 
 .busca, 
 .menu-departamentos {
-	float: left;
+	float: right;
 }
 
 .menu-departamentos {
 	margin-top: 10px;
 	padding-bottom: 10px;
-	clear: left;
+	clear: right;
 }
 
 .destaque {
@@ -94,7 +94,7 @@ header {
 }
 
 .destaque img {
-	margin-left: 10px;
+	margin-right: 10px;
 }
 
 .painel {
